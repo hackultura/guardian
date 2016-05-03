@@ -44,7 +44,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'django_extensions',
     'rest_framework',
+    'rest_localflavor',
+    'debug_toolbar',
+    'test_without_migrations',
+
+    'guardian.authentication',
 ]
 
 MIDDLEWARE_CLASSES = [

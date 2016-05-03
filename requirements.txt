@@ -1,5 +1,11 @@
 dj-database-url==0.4.1
 Django==1.9.6
 django-cors-headers==1.1.0
+django-debug-toolbar==1.4
+django-extensions==1.6.5
+django-test-without-migrations==0.4
 djangorestframework==3.3.3
+django-rest-localflavor==1.2.2
 psycopg2==2.6.1
+six==1.10.0
+sqlparse==0.1.19
